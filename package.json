@@ -1,0 +1,16 @@
+{
+  "name": "validador-de-campos",
+  "version": "1.0.0",
+  "description": "validadorCampos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --open"
+  },
+  "author": "Fellipe Barnabé",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.11.0",
+    "vite": "^4.4.9"
+  }
+}
